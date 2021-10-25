@@ -1,3 +1,7 @@
+Special Thanks-Sudhanshu sir, Krish sir ,iNeuron Team
+
+
+
 # Fraud-Transaction
 
 project clean data save as **credit_data.csv** click [here](https://drive.google.com/drive/folders/1-P0kYkKWe25HEVR41mB1lsSZeYi9wAKC)
