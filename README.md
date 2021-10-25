@@ -1,7 +1,10 @@
 **Special Thanks-
-Sudhanshu sir
-Krish sir 
-iNeuron Team**
+
+**Sudhanshu sir**
+
+**Krish sir 
+
+**iNeuron Team******
 
 
 
