@@ -1,4 +1,7 @@
-Special Thanks-Sudhanshu sir, Krish sir ,iNeuron Team
+**Special Thanks-
+Sudhanshu sir
+Krish sir 
+iNeuron Team**
 
 
 
