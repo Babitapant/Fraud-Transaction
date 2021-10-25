@@ -1,10 +1,10 @@
-****Special Thanks-**
+**Special Thanks-**
 
 **Sudhanshu sir**
 
-**Krish sir **
+**Krish sir**
 
-**iNeuron Team******
+**iNeuron Team**
 
 
 
